@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/simon-surlia/simon-surlia/blob/main/IMG_8358.jpeg?raw=true" width="180" style="border-radius:50%;" />
+<img src="https://github.com/simon-surlia/simon-surlia/blob/main/IMG_8358.jpeg?raw=true" width="180" style="border-radius:50%;"/>
 
 # ⚡ SIMON SRULIA ⚡
 
 🚀 Laravel Developer | 🎵 Music Producer | 🤖 IoT Enthusiast
 
-</div>
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Laravel+Developer;Music+Producer;IoT+Engineer;AI+Enthusiast" />
 
