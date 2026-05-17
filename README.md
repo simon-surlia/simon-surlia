@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<img src="https://github.com/simon-surlia/simon-surlia/blob/main/IMG_8358.jpeg?raw=true" width="50%" />
 
 # ⚡ SIMON SRULIA ⚡
 
