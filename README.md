@@ -53,7 +53,42 @@ Goal: Become a Professional Developer 🚀
 - 🧠 Machine Learning Sentiment Analysis
 
 ---
+# 🎵 Music Skills
 
+<div align="center">
+
+![FL Studio](https://img.shields.io/badge/FL_Studio-0D1117?style=for-the-badge&logo=flstudio&logoColor=00F7FF)
+![Ableton Live](https://img.shields.io/badge/Ableton-0D1117?style=for-the-badge&logo=abletonlive&logoColor=00F7FF)
+![Spotify](https://img.shields.io/badge/Music_Producer-0D1117?style=for-the-badge&logo=spotify&logoColor=00F7FF)
+![Audio Editing](https://img.shields.io/badge/Audio_Editing-0D1117?style=for-the-badge&logo=audacity&logoColor=00F7FF)
+
+</div>
+
+---
+
+# 🎧 Currently Into
+
+```yaml
+Genres:
+  - Phonk
+  - Lofi
+  - EDM
+  - Trap
+
+Activities:
+  - Music Producing
+  - Beat Making
+  - Mixing
+  - Sound Design
+```
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Code+By+Day+🎯;Music+By+Night+🎵" />
+
+</div>
 # 📈 GitHub Stats
 
 <div align="center">
