@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="LINK_FOTO_KAMU" width="180" style="border-radius:50%;" />
+<img src="https://github.com/simon-surlia/simon-surlia/blob/main/IMG_8358.jpeg?raw=true" width="180" style="border-radius:50%;" />
 
 # ⚡ SIMON SRULIA ⚡
 
