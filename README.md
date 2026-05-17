@@ -2,10 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020024,50:090979,100:000814&text=SIMON%20SRULIA&fontColor=00F7FF&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Laravel%20Developer%20•%20Music%20Producer%20•%20IoT%20Engineer&descAlignY=55&descColor=7FDBFF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Music+Producer;Cyber+Neon+Style;Future+AI+Engineer" />
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000814&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=000814&title_color=00F7FF&text_color=FFFFFF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Music+Producer;Cyber+Neon+Style;Future+AI+Engineer"
 </div>
 
 # ⚡ SIMON SRULIA ⚡
