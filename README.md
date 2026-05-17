@@ -8,17 +8,7 @@
 
 </div>
 
-# ⚡ SIMON SRULIA ⚡
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Laravel+Developer;Music+Producer;IoT+Engineer;AI+Enthusiast" />
-
-🚀 Web Developer | 🎵 Music Producer | 🤖 IoT Enthusiast
-
-</div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+Enthusiast;IoT+Engineer;Future+AI+Developer" />
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
 </div>
 
