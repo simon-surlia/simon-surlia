@@ -1,9 +1,12 @@
 <div align="center">
 
-# ⚡ SIMON SURLIA ⚡
+<img src="LINK_FOTO_KAMU" width="180" style="border-radius:50%;" />
 
-🚀 Laravel Developer  
-💻 IoT & AI Enthusiast
+# ⚡ SIMON SRULIA ⚡
+
+🚀 Laravel Developer | 🎵 Music Producer | 🤖 IoT Enthusiast
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+Enthusiast;IoT+Engineer;Future+AI+Developer" />
 
